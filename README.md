@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **python distilled**
+ 🔭 I’m currently working on **Open Source contributions**
  
  🌱 I’m currently learning **Clean Code** and **Design patterns**
 
